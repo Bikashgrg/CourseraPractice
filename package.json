@@ -1,0 +1,23 @@
+{
+  "name": "git-course",
+  "version": "1.0.0",
+  "description": "for learning git",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bikashgrg/CourseraPractice.git"
+  },
+  "author": "Bikash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bikashgrg/CourseraPractice/issues"
+  },
+  "homepage": "https://github.com/Bikashgrg/CourseraPractice#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  }
+}
